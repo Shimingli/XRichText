@@ -73,7 +73,7 @@ public class RichTextEditor extends ScrollView {
                 }
                 return false;
             }
-        };
+    };
 
         // 3. 图片叉掉处理
         btnListener = new OnClickListener() {
